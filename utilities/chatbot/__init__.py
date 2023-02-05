@@ -1,6 +1,6 @@
 import telegram
 
-telegram_token = '5404103281:AAHBBDrYFDyHgHyxInL0ss3Gqtnbqlh7GvE'
+telegram_token = 'your telegram token'
 
 class telegram_notifications:
     def __init__(self,stock,action,price,stop_loss,take_profit):
